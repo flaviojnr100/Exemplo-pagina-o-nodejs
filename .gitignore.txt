@@ -1,0 +1,2 @@
+/paginacao/node_modules
+/paginacao/.env
